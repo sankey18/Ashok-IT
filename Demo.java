@@ -1,13 +1,11 @@
 package com.sunbeam.sb;
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+public class Demo {
 
-@SpringBootApplication
-public class Sb01Application {
-
+	public void doprocess(){
+}
 	public static void main(String[] args) {
-		SpringApplication.run(Sb01Application.class, args);
+		
 	}
 
 }
