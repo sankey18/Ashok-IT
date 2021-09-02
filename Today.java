@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Text {
+public class Today {
 
-	Public void mytest(){
+	Public void Mytoday(){
 	}
 
 	public static void main(String[] args) {
